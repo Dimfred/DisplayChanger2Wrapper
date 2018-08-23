@@ -11,10 +11,10 @@ Added configurations can be deleted by rightclicking the config.
 
 The programm directory should look like this:
 
--Root
-    -ConfigFiles
-    -Utilities
-        -dc2.exe (download from https://12noon.com/?page_id=641)
-    -MonitorSwitcher.exe (or any name you choose)
+*Root
+    *ConfigFiles
+    *Utilities
+        *dc2.exe (download from https://12noon.com/?page_id=641)
+     *MonitorSwitcher.exe (or any name you choose)
 
 Enjoy :)
