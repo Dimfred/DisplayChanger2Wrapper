@@ -1,6 +1,6 @@
 # DisplayChanger2Wrapper
 
-This software is a wrapper around the displaychanger2 application from https://12noon.com/?page_id=641 thank you a lot for your work!
+This software is a wrapper around the displaychanger2 application from https://12noon.com/?page_id=641. Thank you a lot for your work!
 
 The software provides a C#-Forms application which sits permanently in the system tray.
 
