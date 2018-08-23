@@ -1,0 +1,45 @@
+<monitors app-version="1.5.3.0" version="3" topology="External">
+    <!--The version identifies the format of the configuration file.-->
+    <!--topology=-->
+    <!--Internal-->
+    <!--Clone-->
+    <!--Extend-->
+    <!--External-->
+    <!--monitor:-->
+    <!--The id attribute must be specified.-->
+    <monitor id="4353" adapterHigh="0" adapterLow="37940">
+        <name>SAMSUNG</name>
+        <!--source: the origin of the video signal-->
+        <source id="0">
+            <name>\\.\DISPLAY1</name>
+            <path>\\?\PCI#VEN_10DE&amp;DEV_1004&amp;SUBSYS_325519DA&amp;REV_A1#4&amp;1286464&amp;0&amp;0008#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}</path>
+        </source>
+        <size width="1280" height="720"/>
+        <position left="0" top="0"/>
+        <!--8bpp-->
+        <!--16bpp-->
+        <!--24bpp-->
+        <!--32bpp-->
+        <!--Non-GDI-->
+        <color value="32bpp"/>
+        <!--Identity-->
+        <!--90-degreesCW-->
+        <!--180-degreesCW-->
+        <!--270-degreesCW-->
+        <rotation value="Identity"/>
+        <!--Identity-->
+        <!--Centered-->
+        <!--Stretched-->
+        <!--Aspect Ratio Centered Max-->
+        <!--Custom-->
+        <!--Preferred-->
+        <scaling value="Aspect Ratio Centered Max"/>
+        <!--A value of 0/0 represents the optimal refresh rate. Scan-line-order must be Unspecified.-->
+        <refresh numerator="60000" denominator="1000"/>
+        <!--Unspecified-->
+        <!--Progressive-->
+        <!--Interlaced (upper field first)-->
+        <!--Interlaced (lower field first)-->
+        <scanlineorder value="Progressive"/>
+    </monitor>
+</monitors>
